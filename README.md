@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @akce1
+- 👀 I’m interested in developing various coding skills to develop my career path
+- 🌱 I’m currently learning to code in Python
+- 💞️ I’m looking to collaborate on ANYTHING 
+- 📫 Email me at a.kerkache98@gmail.com
