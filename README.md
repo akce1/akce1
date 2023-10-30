@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @akce1
-- 👀 I’m interested in developing various coding skills to develop my career path
-- 🌱 I’m currently learning to code in React
-- 📫 You can email me at a.kerkache98@gmail.com
+- 👋 Hey, I’m Anis
+- 🌱 Currently, I'm focused on mastering React
+- 📫 You can email me at [a.kerkache98@gmail.com](mailto:a.kerkache98@gmail.com)
