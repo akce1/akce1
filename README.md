@@ -2,8 +2,8 @@
 
 👋 Hey, I’m Anis.
 
-🌱 Currently, I'm focused on mastering React.
+🌱 Currently, I'm focused on mastering Python & React.
 
-🚧 My React projects are currently under construction, and I'll be making them public soon.
+🚧 My projects are currently under construction, and I'll be making them public soon.
 
 📫 You can email me at [a.kerkache98@gmail.com](mailto:a.kerkache98@gmail.com).
